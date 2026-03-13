@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+type: software
+title: "High-Dimensional Sparse Regression: A Comparative Study of Variable Selection Methods"
+authors:
+  - name: "Statistics Research Team"
+repository-code: "https://github.com/qq2684/high-dimensional-regression"
+abstract: "A comprehensive comparative study of LASSO, Elastic Net, and SCAD for variable selection in high-dimensional sparse linear regression."
+keywords:
+  - "high-dimensional statistics"
+  - "variable selection"
+  - "LASSO"
+  - "Elastic Net"
+  - "SCAD"
+license: "MIT"
+version: 1.0.0
+date-released: 2026-03-13
